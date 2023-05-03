@@ -2,7 +2,7 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 
-namespace ProjectName.Models
+namespace PrimeSifting.Models
 {
   public class ClassName
   {

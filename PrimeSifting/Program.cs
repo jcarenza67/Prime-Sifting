@@ -1,9 +1,9 @@
 using System;
 using System.Collections;
 using System.Collections.Generic;
-using ProjectName.Models;
+using PrimeSifting.Models;
 
-namespace ProjectName 
+namespace PrimeSifting
 {
   public class Program
   {
